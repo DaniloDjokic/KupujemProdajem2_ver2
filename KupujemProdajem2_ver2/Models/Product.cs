@@ -1,5 +1,5 @@
 ﻿namespace KupujemProdajem2_ver2.Models;
-public class Products
+public class Product
 {
     public int Id { get; set; }
     public string Name { get; set; } = string.Empty;
